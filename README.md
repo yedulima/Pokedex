@@ -14,3 +14,4 @@ Deve possuir:
 - evoluções [se possível]
 
 Site de exemplo: https://www.pokemon.com/br/pokedex/
+Site com status: https://pokemondb.net/pokedex/all
